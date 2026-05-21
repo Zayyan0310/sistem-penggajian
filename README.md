@@ -41,10 +41,10 @@ Fokus pada pengelolaan data SDM dan operasional sebagai dasar utama perhitungan 
 
 ## 🔐 Akun Demonstrasi (Gunakan untuk Login)
 
-| Role                | Username  | Password | Otoritas                                 |
-| :------------------ | :-------- | :------- | :--------------------------------------- |
-| **HRD**             | `kartika` | `123456` | Kelola Karyawan, Jabatan, & Absensi      |
-| **Staff (Finance)** | `budi`    | `123`    | Kelola Gaji, Lembur, Pajak, & Cetak Slip |
+| Role                | Username | Password | Otoritas                                 |
+| :------------------ | :------- | :------- | :--------------------------------------- |
+| **HRD**             | `hrd`    | `123456` | Kelola Karyawan, Jabatan, & Absensi      |
+| **Staff (Finance)** | `budi`   | `123`    | Kelola Gaji, Lembur, Pajak, & Cetak Slip |
 
 ---
 
